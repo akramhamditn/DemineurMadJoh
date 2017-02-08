@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Demineur MadJoh</string>
+    <string name="default_content_desc"></string>
+    <string name="dialog___button_cancel">Cancel</string>
+    <string name="dialog___button_close">Close</string>
+    <string name="action_about">About</string>
+    <string name="action_help">Help</string>
+    <string name="action_validate">Validate</string>
+    <string name="action_restart">Restart</string>
+    <string name="action_hint">Hint</string>
+    <string name="action_flag_mode">Flag mode</string>
+    <string name="action_cheat">Cheat</string>
+    <string name="main__new_game">New game</string>
+    <string name="main__new_game_easy">Easy</string>
+    <string name="main__new_game_normal"   >Normal</string>
+    <string name="main__new_game_difficult">Difficult</string>
+    <string name="main__continue">Continue</string>
+    <string name="game_settings__dialog_title">Settings</string>
+    <string name="game_settings__button_start">Start</string>
+    <string name="game_settings__button_cancel">Cancel</string>
+    <string name="game_settings__option_dimension" formatted="false">%d x %d</string>
+    <string name="game_settings__option_mines">%d mines</string>
+    <string name="game__activity_title" formatted="false">%d x %d , %d bombs</string>
+    <string name="game__validate_disallowed_first_move_required">You can only validate after you have made your first move.</string>
+    <string name="game__cheat_shown_only_after_first_move">Cheat will only take effect after you have made your first move.</string>
+    <string name="game__hint_unavailable_first_move_required">Hint is only available after you have made your first move.</string>
+    <string name="game__hint_attempt_validation">Tap on the validate option with a check mark icon.</string>
+    <string name="game__validate_confirmation_dialog___title">Validate game</string>
+    <string name="game__validate_confirmation_dialog___prompt">Are you sure you want to validate?</string>
+    <string name="game__validate_confirmation_dialog___button_positive">Validate</string>
+    <string name="game__restart_confirmation_dialog___title">Restart game</string>
+    <string name="game__restart_confirmation_dialog___prompt">Are you sure you want to restart?</string>
+    <string name="game__restart_confirmation_dialog___button_positive">Restart</string>
+    <string name="game__end_of_game_dialog___title_won">Hurray</string>
+    <string name="game__end_of_game_dialog___message_won">You have won!</string>
+    <string name="game__end_of_game_dialog___title_lost">Ooooppps</string>
+    <string name="game__end_of_game_dialog___message_lost">You have lost.</string>
+    <string name="game__end_of_game_dialog___button_restart">Restart</string>
+    <string name="game__end_of_game_dialog___button_new_game">New game</string>
+    <string name="next">Next</string>
+    <string name="close">Close</string>
+</resources>

@@ -1,0 +1,18 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.tn.demineurmadjoh.activity.GameActivity">
+    <item
+        android:id="@+id/game__action_validate"
+        android:title="@string/action_validate"
+        android:orderInCategory="100"
+        android:icon="@drawable/ic_check_game"
+        android:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/game__action_restart"
+        android:title="@string/action_restart"
+        android:orderInCategory="100"
+        android:icon="@drawable/ic_restart"
+        android:showAsAction="ifRoom" />
+
+
+</menu>

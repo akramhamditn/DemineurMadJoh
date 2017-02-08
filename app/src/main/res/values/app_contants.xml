@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ms_log_tag">Demineur</string>
+    <integer name="ms_default_dimension">10</integer>
+    <integer name="ms_default_mines">10</integer>
+    <string name="ms_author_name">Akram HAMDI</string>
+    <string name="ms_author_website_link">http://www.akram-hamdi.com</string>
+    <string name="ms_author_website_link_friendly">www.akram-hamdi.com</string>
+</resources>

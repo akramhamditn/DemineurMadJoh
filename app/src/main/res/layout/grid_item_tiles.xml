@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <ImageView
+        android:id="@+id/game__imageview_underlying"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:src="@drawable/ic_blank"
+        android:contentDescription="@string/default_content_desc"
+        android:adjustViewBounds="true" />
+
+    <ImageButton
+        android:id="@+id/game__imagebutton_mask"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:src="@drawable/selector_tile_mask"
+        android:scaleType="fitXY"
+        android:padding="0dip"
+        android:contentDescription="@string/default_content_desc"
+        android:adjustViewBounds="true" />
+
+    <ImageButton
+        android:id="@+id/game__imagebutton_flagged"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:src="@drawable/selector_tile_flagged"
+        android:scaleType="fitXY"
+        android:padding="0dip"
+        android:contentDescription="@string/default_content_desc"
+        android:adjustViewBounds="true" />
+</RelativeLayout>
