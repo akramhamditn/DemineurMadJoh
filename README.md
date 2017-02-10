@@ -5,7 +5,7 @@ Le démineur est un jeu de réflexion dont le but est de localiser des mines cac
 ![alt tag](https://github.com/kimo24/MemineurMadJoh/blob/master/ScreenShots/GamePlan.JPG)
 
 # Procédure d'installation
-Télécharger l'apk d'ici : [MemineurMadJoh](https://github.com/kimo24/MemineurMadJoh/tree/master/Apk).
+Télécharger l'apk d'ici : [DemineurMadJoh](https://github.com/kimo24/MemineurMadJoh/tree/master/Apk).
 
 
 ![alt tag](https://github.com/kimo24/MemineurMadJoh/blob/master/ScreenShots/HowToInstall.jpg)
